@@ -1,9 +1,10 @@
-import Doniyor from "@/Components/Doniyor/Doniyor"
+import Navbar from "@/Components/Navbar"
 
 const Home = () => {
   return (
     <>
-    <Doniyor/>
+    <Navbar />
+    salom
     </>
   )
 }
