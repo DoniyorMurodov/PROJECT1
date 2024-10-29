@@ -3,7 +3,8 @@ import styles from "../../styles/Doniyor.module.css"
 const Doniyor = () => {
   return (
     <>
-    <h1 className="text-center text-4xl p-8" >We Publish Blogs Every Week</h1>
+    <div className="mt-[100px]">
+    <h1 className="text-center text-4xl p-8" >We Publish Blogs Every Week</h1>d
     <h1 className="text-center text-gray-500 " >We understand how desperatly you want to grow in the business world & our motto <br /> is to help you with practicale idea and plan </h1>
     
 
@@ -36,7 +37,7 @@ const Doniyor = () => {
 
         
 
-
+    </div>
 
     </>
   )
