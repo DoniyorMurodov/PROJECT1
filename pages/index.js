@@ -1,9 +1,9 @@
-
+import Doniyor from "@/Components/Doniyor/Doniyor"
 
 const Home = () => {
   return (
     <>
-    salom
+    <Doniyor/>
     </>
   )
 }
